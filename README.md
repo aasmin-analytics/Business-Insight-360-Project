@@ -3,10 +3,12 @@ Power BI Business Insights 360 Dashboard | Sales, Finance, Marketing &amp; Suppl
 # Business Insights 360 – Power BI Dashboard
 
 ## Project Overview
+Business Insights 360 is an interactive Power BI dashboard created to analyze business performance across different areas. The dashboard provides multiple views, including **Sales, Finance, Marketing, Supply Chain, and Executive** analysis.
 
-**Business Insights 360** is an interactive Power BI dashboard designed to provide a consolidated view of business performance across multiple dimensions.
+It helps users understand important business metrics such as **Net Sales, Gross Margin, P&L, Forecast Accuracy, and Risk Profile** through interactive visualizations and filters.
 
-The dashboard enables users to analyze business performance through different views including **Sales, Finance, Marketing, Supply Chain, and Executive** analysis.
+The project focuses on transforming business data into clear and meaningful insights that can support better business analysis and decision-making.
+
 
 ## Project Objective
 
