@@ -81,23 +81,23 @@ Provides insights into supply chain performance and forecast-related metrics to 
 
 ### Executive View
 
-*Add your Executive View screenshot here.*
+*https://github.com/aasmin-analytics/Business-Insight-360-Project/blob/main/Executive%20Dashboard.png*
 
 ### Finance View
 
-*Add your Finance View screenshot here.*
+https://github.com/aasmin-analytics/Business-Insight-360-Project/blob/main/Finance%20Dashboard.png
 
 ### Sales View
 
-*Add your Sales View screenshot here.*
+https://github.com/aasmin-analytics/Business-Insight-360-Project/blob/main/Sales%20Dashboard.png
 
 ### Marketing View
 
-*Add your Marketing View screenshot here.*
+*https://github.com/aasmin-analytics/Business-Insight-360-Project/blob/main/Market%20Dashboard.png*
 
 ### Supply Chain View
 
-*Add your Supply Chain View screenshot here.*
+**
 
 ---
 
