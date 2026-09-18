@@ -85,11 +85,11 @@ Provides insights into supply chain performance and forecast-related metrics to 
 
 ### Finance View
 
-https://github.com/aasmin-analytics/Business-Insight-360-Project/blob/main/Finance%20Dashboard.png
+*https://github.com/aasmin-analytics/Business-Insight-360-Project/blob/main/Finance%20Dashboard.png*
 
 ### Sales View
 
-https://github.com/aasmin-analytics/Business-Insight-360-Project/blob/main/Sales%20Dashboard.png
+*https://github.com/aasmin-analytics/Business-Insight-360-Project/blob/main/Sales%20Dashboard.png*
 
 ### Marketing View
 
@@ -97,25 +97,13 @@ https://github.com/aasmin-analytics/Business-Insight-360-Project/blob/main/Sales
 
 ### Supply Chain View
 
-**
+*https://github.com/aasmin-analytics/Business-Insight-360-Project/blob/main/Supply%20Chain%20Dashboard.png*
 
----
 
-## 📁 Project Files
-
-| File                         | Description              |
-| ---------------------------- | ------------------------ |
-| `Business_Insights_360.pbix` | Power BI dashboard file  |
-| `Business_Insights_360.pdf`  | Dashboard preview/export |
-| `Screenshots/`               | Dashboard screenshots    |
-
----
-
-## 📚 Learning Outcome
+##  Learning Outcome
 
 Through this project, I practiced building an interactive Power BI dashboard, working with business KPIs, creating analytical views, and presenting data-driven insights in a structured and user-friendly format.
 
----
 
 ## 👩‍💻 Author
 
